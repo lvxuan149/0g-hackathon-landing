@@ -56,7 +56,7 @@ export default function Home() {
         <div className="relative z-10 text-center flex flex-col items-center">
           {/* VIBE Logo */}
           <img
-            src="/Vibe.svg"
+            src="/vibe.svg"
             alt="VIBE"
             className="w-auto h-[20rem] md:h-[26rem] max-w-[100vw] object-contain animate-float-cube"
           />
