@@ -16,7 +16,7 @@
       "name": "Agent Trust Score",
       "description": "一个基于区块链的 AI Agent 信誉评分系统，让用户可以对 AI Agent 的性能、可靠性和可信度进行评分和评价。",
       "members": ["MC"],
-      "projectLink": "https://agent-trust-score.vercel.app/",
+      "projectLink": "https://github.com/gmchenn-sys/Agent-Trust-Score",
       "xLink": "",
       "track": 2
     },
@@ -43,7 +43,7 @@
       "name": "Aetheria",
       "description": "专为 AI Agent 设计的链上身份与权限管理系统，实现了 Agent 的自主身份、资产管理和基于 EIP-712 的授权操作执行。",
       "members": ["草帽"],
-      "projectLink": "https://trae1fl8286y.vercel.app/",
+      "projectLink": "https://github.com/Qianniming/SmartContract1202",
       "xLink": "https://x.com/NimingQ",
       "track": 2
     },
@@ -52,7 +52,7 @@
       "name": "Bas Predict",
       "description": "基于 0G Network 构建的预测市场聚合交易终端 Demo。从 Polymarket 聚合预测事件与订单簿数据，利用 0G Compute Network 进行 AI 分析，通过 0G Storage 实现去中心化数据持久化，用户可在 0G 测试网上完成交易。",
       "members": ["leo", "Dax", "Leon", "松鼠"],
-      "projectLink": "https://0-g-hack-frontend.vercel.app/",
+      "projectLink": "https://github.com/yjz94123/0G-hack",
       "xLink": "",
       "track": 3
     },
@@ -70,7 +70,7 @@
       "name": "AI MEME trader",
       "description": "重点关注币种推荐，择时信号推送，AI自然语言下单",
       "members": ["Morgan"],
-      "projectLink": "https://ai-order-six.vercel.app/",
+      "projectLink": "https://github.com/AricRedemption/ai-order",
       "xLink": "https://x.com/Satosha256/status/2017526295572451734",
       "track": 4
     },
