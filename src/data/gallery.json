@@ -1,0 +1,82 @@
+{
+  "photos": [
+    {
+      "id": "0",
+      "src": "/gallery/000.png",
+      "alt": "大合照",
+      "category": "opening"
+    },
+    {
+      "id": "1",
+      "src": "/gallery/001.jpg",
+      "alt": "活动现场",
+      "category": "opening"
+    },
+    {
+      "id": "2",
+      "src": "/gallery/002.png",
+      "alt": "团队协作",
+      "category": "teamwork"
+    },
+    {
+      "id": "3",
+      "src": "/gallery/003.jpg",
+      "alt": "技术分享",
+      "category": "workshop"
+    },
+    {
+      "id": "4",
+      "src": "/gallery/004.jpg",
+      "alt": "现场编程",
+      "category": "coding"
+    },
+    {
+      "id": "5",
+      "src": "/gallery/005.jpg",
+      "alt": "项目展示",
+      "category": "demo"
+    },
+    {
+      "id": "6",
+      "src": "/gallery/006.jpg",
+      "alt": "团队讨论",
+      "category": "teamwork"
+    },
+    {
+      "id": "7",
+      "src": "/gallery/007.png",
+      "alt": "颁奖典礼",
+      "category": "awards"
+    },
+    {
+      "id": "8",
+      "src": "/gallery/008.png",
+      "alt": "精彩瞬间",
+      "category": "demo"
+    },
+    {
+      "id": "10",
+      "src": "/gallery/010.png",
+      "alt": "活动花絮",
+      "category": "teamwork"
+    },
+    {
+      "id": "11",
+      "src": "/gallery/011.png",
+      "alt": "精彩瞬间",
+      "category": "coding"
+    },
+    {
+      "id": "12",
+      "src": "/gallery/012.png",
+      "alt": "现场互动",
+      "category": "workshop"
+    },
+    {
+      "id": "13",
+      "src": "/gallery/013.JPG",
+      "alt": "活动留念",
+      "category": "awards"
+    }
+  ]
+}

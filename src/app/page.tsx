@@ -1,45 +1,10 @@
+import Navigation from "@/components/Navigation";
+
 export default function Home() {
   return (
     <main className="min-h-screen bg-black text-white overflow-x-hidden">
       {/* Navigation */}
-      <nav className="fixed top-0 left-0 right-0 z-50 bg-black/80 backdrop-blur-lg border-b border-white/10">
-        <div className="max-w-7xl mx-auto px-6 py-4 flex justify-between items-center">
-          <div className="flex items-center gap-3">
-            <img src="/0G-Logo.svg" alt="0G Logo" className="h-8" />
-            <span className="font-semibold text-lg">
-              AI Vibe Coding Session
-            </span>
-          </div>
-          <div className="hidden md:flex items-center gap-8">
-            <a
-              href="#tracks"
-              className="text-gray-400 hover:text-[#FFD500] transition-colors"
-            >
-              赛道
-            </a>
-            <a
-              href="#highlights"
-              className="text-gray-400 hover:text-[#FFD500] transition-colors"
-            >
-              亮点
-            </a>
-            <a
-              href="#info"
-              className="text-gray-400 hover:text-[#FFD500] transition-colors"
-            >
-              活动信息
-            </a>
-            <a
-              href="https://lu.ma/nkutalo7"
-              target="_blank"
-              rel="noopener noreferrer"
-              className="cta-button text-sm py-2 px-6"
-            >
-              立即报名
-            </a>
-          </div>
-        </div>
-      </nav>
+      <Navigation />
 
       {/* Hero Section */}
       <section className="relative min-h-screen flex items-center justify-center pt-20 bg-pattern">
@@ -107,12 +72,9 @@ export default function Home() {
             </div>
           </div>
 
-          {/* CTA Buttons */}
-          <div className="flex flex-col sm:flex-row gap-4 justify-center px-6">
-            <a href="#register" className="cta-button text-lg">
-              立即报名参赛
-            </a>
-            <a href="#tracks" className="secondary-button text-lg">
+          {/* CTA Button */}
+          <div className="flex justify-center px-6">
+            <a href="#tracks" className="cta-button text-lg">
               了解赛道详情
             </a>
           </div>
@@ -665,62 +627,6 @@ export default function Home() {
                 </ul>
               </div>
             </div>
-          </div>
-        </div>
-      </section>
-
-      {/* Divider */}
-      <div className="section-divider mx-6"></div>
-
-      {/* Register CTA Section */}
-      <section id="register" className="py-24 px-6">
-        <div className="max-w-4xl mx-auto text-center">
-          {/* Yellow Card CTA */}
-          <div className="yellow-card px-8 py-12 md:px-16 md:py-16">
-            <h2 className="text-3xl md:text-5xl font-black mb-4">
-              准备好开始了吗？
-            </h2>
-            <p className="text-lg text-black/70 mb-8 max-w-xl mx-auto">
-              加入 0G AI Vibe Coding Session，与同频开发者一起探索 AI+Web3
-              的无限可能
-            </p>
-
-            {/* Core Requirement */}
-            <div className="inline-block bg-black/10 rounded-xl px-6 py-4 mb-8">
-              <div className="text-sm text-black/50 mb-1">核心要求</div>
-              <div className="text-black font-medium">
-                AI+Web3 项目 · 当天完成 MVP · 部署至 0G 测试网
-              </div>
-            </div>
-
-            {/* CTA Button */}
-            <div className="mb-4">
-              <a
-                href="https://lu.ma/nkutalo7"
-                target="_blank"
-                rel="noopener noreferrer"
-                className="inline-flex items-center gap-3 bg-black text-[#FFD500] font-bold text-xl px-10 py-4 rounded-xl hover:bg-black/80 transition-colors"
-              >
-                立即报名参加
-                <svg
-                  className="w-5 h-5"
-                  fill="none"
-                  stroke="currentColor"
-                  viewBox="0 0 24 24"
-                >
-                  <path
-                    strokeLinecap="round"
-                    strokeLinejoin="round"
-                    strokeWidth={2}
-                    d="M13 7l5 5m0 0l-5 5m5-5H6"
-                  />
-                </svg>
-              </a>
-            </div>
-
-            <p className="text-black/50 text-sm">
-              审核通过后即可参与，名额有限
-            </p>
           </div>
         </div>
       </section>

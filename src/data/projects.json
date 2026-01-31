@@ -1,0 +1,87 @@
+{
+  "stats": {
+    "totalProjects": 8,
+    "totalTracks": 4,
+    "totalParticipants": 40
+  },
+  "tracks": {
+    "1": { "name": "AI Trading", "color": "yellow" },
+    "2": { "name": "Agent", "color": "purple" },
+    "3": { "name": "Prediction Market", "color": "pink" },
+    "4": { "name": "Meme", "color": "green" }
+  },
+  "projects": [
+    {
+      "id": "1",
+      "name": "Agent Trust Score",
+      "description": "一个基于区块链的 AI Agent 信誉评分系统，让用户可以对 AI Agent 的性能、可靠性和可信度进行评分和评价。",
+      "members": ["MC"],
+      "projectLink": "https://agent-trust-score.vercel.app/",
+      "xLink": "",
+      "track": 2
+    },
+    {
+      "id": "2",
+      "name": "Verifiable AI Trading Arena",
+      "description": "可验证的 AI 交易竞技场 · 让 AI 交易从概率变成科学",
+      "members": ["Jeffrey"],
+      "projectLink": "https://github.com/JeffreyLee9527/0G",
+      "xLink": "",
+      "track": 1
+    },
+    {
+      "id": "3",
+      "name": "0g AI Trading Agent",
+      "description": "基于0G技术栈的AI自动化交易智能体",
+      "members": ["rzexin"],
+      "projectLink": "https://github.com/JasonRUAN/0gAITradingAgent",
+      "xLink": "",
+      "track": 1
+    },
+    {
+      "id": "4",
+      "name": "Aetheria",
+      "description": "专为 AI Agent 设计的链上身份与权限管理系统，实现了 Agent 的自主身份、资产管理和基于 EIP-712 的授权操作执行。",
+      "members": ["草帽"],
+      "projectLink": "https://trae1fl8286y.vercel.app/",
+      "xLink": "https://x.com/NimingQ",
+      "track": 2
+    },
+    {
+      "id": "5",
+      "name": "Bas Predict",
+      "description": "基于 0G Network 构建的预测市场聚合交易终端 Demo。从 Polymarket 聚合预测事件与订单簿数据，利用 0G Compute Network 进行 AI 分析，通过 0G Storage 实现去中心化数据持久化，用户可在 0G 测试网上完成交易。",
+      "members": ["leo", "Dax", "Leon", "松鼠"],
+      "projectLink": "https://0-g-hack-frontend.vercel.app/",
+      "xLink": "",
+      "track": 3
+    },
+    {
+      "id": "6",
+      "name": "AgentTask",
+      "description": "AgentTask 是一个 Agent 原生的任务分发与结算平台。0G 以数据可用性和可验证计算为核心，能够原生支持 Agent 结果的存证、复算与信用演化。",
+      "members": ["每每"],
+      "projectLink": "https://github.com/everyeveryV/0G/",
+      "xLink": "",
+      "track": 2
+    },
+    {
+      "id": "7",
+      "name": "AI MEME trader",
+      "description": "重点关注币种推荐，择时信号推送，AI自然语言下单",
+      "members": ["Morgan"],
+      "projectLink": "https://ai-order-six.vercel.app/",
+      "xLink": "https://x.com/Satosha256/status/2017526295572451734",
+      "track": 4
+    },
+    {
+      "id": "8",
+      "name": "0G-FlowPay",
+      "description": "针对 Agent 的「流支付」与「资源租赁」中间件，极大降低了「敢支付」的门槛。",
+      "members": ["Holden"],
+      "projectLink": "https://github.com/7BlackJack/0G-FlowPay",
+      "xLink": "https://x.com/PakHeiPoon/status/2017525565184733481",
+      "track": 2
+    }
+  ]
+}
