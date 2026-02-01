@@ -9,14 +9,6 @@ export default function GalleryPage() {
   const { photos } = galleryData;
   const [selectedPhoto, setSelectedPhoto] = useState<string | null>(null);
 
-  const categoryLabels: Record<string, string> = {
-    opening: "开幕式",
-    teamwork: "团队协作",
-    workshop: "技术分享",
-    demo: "项目展示",
-    awards: "颁奖典礼",
-    coding: "现场编程",
-  };
 
   return (
     <main className="min-h-screen bg-black text-white overflow-x-hidden">
@@ -93,9 +85,6 @@ export default function GalleryPage() {
                     }}
                   />
                   <div className="gallery-overlay">
-                    <span className="gallery-category">
-                      {categoryLabels[photo.category] || photo.category}
-                    </span>
                     <p className="gallery-alt">{photo.alt}</p>
                   </div>
                 </div>
