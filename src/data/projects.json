@@ -1,14 +1,15 @@
 {
   "stats": {
-    "totalProjects": 8,
-    "totalTracks": 4,
-    "totalParticipants": 40
+    "totalProjects": 9,
+    "totalTracks": 5,
+    "totalParticipants": 60
   },
   "tracks": {
     "1": { "name": "AI Trading", "color": "yellow" },
     "2": { "name": "Agent", "color": "purple" },
     "3": { "name": "Prediction Market", "color": "pink" },
-    "4": { "name": "Meme", "color": "green" }
+    "4": { "name": "Meme", "color": "green" },
+    "5": { "name": "Quant", "color": "yellow" }
   },
   "projects": [
     {
@@ -82,6 +83,15 @@
       "projectLink": "https://github.com/7BlackJack/0G-FlowPay",
       "xLink": "https://x.com/PakHeiPoon/status/2017525565184733481",
       "track": 2
+    },
+    {
+      "id": "9",
+      "name": "StratTrust_AI",
+      "description": "一个基于0G的MEME币量化交易平台，使用先进模型实时生成交易信号和投资组合建议，创建、版本化和管理量化因子（如情绪、成交量、变化率等），为策略快照和审计日志提供去中心化、不可篡改的存储。",
+      "members": ["xufuji"],
+      "projectLink": "https://github.com/xufuji5/StratTrust_AI",
+      "xLink": "",
+      "track": 5
     }
   ]
 }

@@ -3,55 +3,55 @@
     {
       "id": "0",
       "src": "/gallery/000.png",
-      "alt": "大合照",
+      "alt": "闭幕大合照",
       "category": "opening"
     },
     {
       "id": "1",
       "src": "/gallery/001.jpg",
-      "alt": "活动现场",
+      "alt": "开幕活动现场",
       "category": "opening"
     },
     {
       "id": "2",
       "src": "/gallery/002.png",
-      "alt": "团队协作",
+      "alt": "现场",
       "category": "teamwork"
     },
     {
       "id": "3",
       "src": "/gallery/003.jpg",
-      "alt": "技术分享",
+      "alt": "现场编程",
       "category": "workshop"
     },
     {
       "id": "4",
       "src": "/gallery/004.jpg",
-      "alt": "现场编程",
+      "alt": "团队协作",
       "category": "coding"
     },
     {
       "id": "5",
       "src": "/gallery/005.jpg",
-      "alt": "项目展示",
+      "alt": "导师分享",
       "category": "demo"
     },
     {
       "id": "6",
       "src": "/gallery/006.jpg",
-      "alt": "团队讨论",
+      "alt": "导师分享",
       "category": "teamwork"
     },
     {
       "id": "7",
       "src": "/gallery/007.png",
-      "alt": "颁奖典礼",
+      "alt": "活动花絮",
       "category": "awards"
     },
     {
       "id": "8",
       "src": "/gallery/008.png",
-      "alt": "精彩瞬间",
+      "alt": "现场编程",
       "category": "demo"
     },
     {
@@ -63,19 +63,127 @@
     {
       "id": "11",
       "src": "/gallery/011.png",
-      "alt": "精彩瞬间",
+      "alt": "团队协作",
       "category": "coding"
     },
     {
       "id": "12",
       "src": "/gallery/012.png",
-      "alt": "现场互动",
+      "alt": "团队协作",
       "category": "workshop"
     },
     {
       "id": "13",
       "src": "/gallery/013.JPG",
-      "alt": "活动留念",
+      "alt": "颁奖典礼",
+      "category": "awards"
+    },
+    {
+      "id": "14",
+      "src": "/gallery/014.JPG",
+      "alt": "活动现场",
+      "category": "opening"
+    },
+    {
+      "id": "15",
+      "src": "/gallery/015.JPG",
+      "alt": "活动现场",
+      "category": "opening"
+    },
+    {
+      "id": "16",
+      "src": "/gallery/016.JPG",
+      "alt": "活动现场",
+      "category": "opening"
+    },
+    {
+      "id": "17",
+      "src": "/gallery/017.JPG",
+      "alt": "项目展示",
+      "category": "teamwork"
+    },
+    {
+      "id": "18",
+      "src": "/gallery/018.JPG",
+      "alt": "项目展示",
+      "category": "teamwork"
+    },
+    {
+      "id": "19",
+      "src": "/gallery/019.JPG",
+      "alt": "项目展示",
+      "category": "coding"
+    },
+    {
+      "id": "20",
+      "src": "/gallery/020.JPG",
+      "alt": "项目展示",
+      "category": "coding"
+    },
+    {
+      "id": "21",
+      "src": "/gallery/021.JPG",
+      "alt": "项目展示",
+      "category": "workshop"
+    },
+    {
+      "id": "22",
+      "src": "/gallery/022.JPG",
+      "alt": "项目展示",
+      "category": "workshop"
+    },
+    {
+      "id": "23",
+      "src": "/gallery/023.JPG",
+      "alt": "项目展示",
+      "category": "demo"
+    },
+    {
+      "id": "24",
+      "src": "/gallery/024.JPG",
+      "alt": "项目展示",
+      "category": "demo"
+    },
+    {
+      "id": "25",
+      "src": "/gallery/025.JPG",
+      "alt": "项目展示",
+      "category": "demo"
+    },
+    {
+      "id": "26",
+      "src": "/gallery/026.JPG",
+      "alt": "项目展示",
+      "category": "teamwork"
+    },
+    {
+      "id": "27",
+      "src": "/gallery/027.JPG",
+      "alt": "主办方致辞",
+      "category": "coding"
+    },
+    {
+      "id": "28",
+      "src": "/gallery/028.JPG",
+      "alt": "颁奖典礼",
+      "category": "workshop"
+    },
+    {
+      "id": "29",
+      "src": "/gallery/029.JPG",
+      "alt": "颁奖典礼",
+      "category": "awards"
+    },
+    {
+      "id": "30",
+      "src": "/gallery/030.JPG",
+      "alt": "颁奖典礼",
+      "category": "awards"
+    },
+    {
+      "id": "31",
+      "src": "/gallery/031.JPG",
+      "alt": "颁奖典礼",
       "category": "awards"
     }
   ]
